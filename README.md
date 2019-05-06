@@ -1,4 +1,4 @@
-# Deploy and scale Microsoft Azure infrastructures and applications with Red Hat Ansible Automation
+# Deploy and scale Microsoft Azure infrastructures and applications with Red Hat Ansible Automation XX
 <p align="center">
 <img src="images/maxresdefault.jpg">
 </p>
